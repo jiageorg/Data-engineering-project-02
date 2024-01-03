@@ -9,7 +9,26 @@ This comprehensive Azure Data Engineering project focuses on building an end-to-
 ![Project Architecture](https://github.com/jiageorg/Data-engineering-project-02/blob/master/architecture.png)
 
 The architecture diagram provides an overview of the end-to-end data engineering solution, illustrating the flow of data from ingestion to reporting.
+# Database Import Instructions
 
+Follow the link below to import the database used in this project to the SQL Server Management Studio (SSMS):
+
+[AdventureWorks Database Import](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
+Ensure that you are using the lightweight version of SSMS for a smoother experience.
+
+# Tools Covered in this Project
+
+The project utilizes the following Azure tools:
+
+1. **Azure Data Factory**
+2. **Azure Data Lake Storage Gen2**
+3. **Azure Databricks**
+4. **Azure Synapse Analytics**
+5. **Azure Key Vault**
+6. **Azure Active Directory (AAD)**
+7. **Microsoft Power BI**
+   
 ## Azure Data Factory Pipeline
 
 ![ADF Pipeline](https://github.com/jiageorg/Data-engineering-project-02/blob/master/Azure_ADF_Pipeline.png)
